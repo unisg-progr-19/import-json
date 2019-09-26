@@ -1,1 +1,4 @@
 .Rproj.user
+*.json
+*.xlsx
+.~lock.*#
