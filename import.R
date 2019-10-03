@@ -15,6 +15,7 @@ names(json)
 str(json)
 
 # json$value is a data frame! Convert to a tibble for nicer output.
+# See ?tibble or https://tibble.tidyverse.org for more info.
 data <- as_tibble(json$value)
 data
 
