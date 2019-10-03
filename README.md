@@ -7,7 +7,8 @@ The goal of import-json is to demonstrate import of a JSON file.
 
 ## Prerequisites
 
-- Place the `Todos Registros.json` file in the root directory of the project.
+- This repo comes with the `Todos Registros.json` file that will be imported.
+  You do not need to download data yourself.
 - Make sure you have opened the project by double-clicking the `import-json.Rproj` file.
 
 ## Code
