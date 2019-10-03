@@ -19,6 +19,7 @@ str(json)
 data <- as_tibble(json$value)
 data
 
+
 # Elementary statistics
 data %>%
   count(UfPessoaNacional)
